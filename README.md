@@ -1,1 +1,10 @@
-# CS2-Magadia-GaebrielleMialouise
+# Student Grade Calculator
+
+## Description
+This program calculates your electricity bill and consumption based on your previous and current meter reading.
+
+## Version 1 - Original code without input validation
+- Input: Accepts a customer's name and your previous and current meter reading.
+- Process: Calculates and displays the electricity consumption and electricity bill.
+- Output: Electricity consumption and electricity bill.
+- Does not include input validation.
